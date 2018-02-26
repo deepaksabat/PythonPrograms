@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+s#!/usr/bin/env python
 '''
 MySQL CRUD (Create Retrieve Update Delete) Operations using Python
 '''
-__author__ = "Alessandro Cucci"
+__author__ = "deepak sabat"
 
 __license__ = "MIT"
 __version__ = "0.0.1"
