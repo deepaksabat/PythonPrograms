@@ -6,7 +6,7 @@ __author__ = "Alessandro Cucci"
 
 __license__ = "MIT"
 __version__ = "0.0.1"
-__email__ = "alessandro.cucci@gmail.com"
+__email__ = "deepakkumarsabat12@gmail.com"
 __status__ = "Development"
 
 
